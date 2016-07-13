@@ -22,13 +22,13 @@ author:
 ## sidebar links:
 # For external links add external: true
 links:
-  -title: Tags
+  - title: Tags
     url : /tags/
-  -title: Archive
+  - title: Archive
     url: /archive/
-  -title: Contact
+  - title: Contact
     url: /contact/
-  -title <i class="iconside iconm-feed2"></i> Feed
+  - title <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 
 # Custom vars
