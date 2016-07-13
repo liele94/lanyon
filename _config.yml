@@ -11,7 +11,7 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 http://liele94.github.io
 baseurl:             ''
 paginate:            5
-github_repo          https://www.github.com/liele94
+#github_repo          https://www.github.com/liele94
 
 # About/contact
 author:
